@@ -50,14 +50,11 @@ Stefanie-WhatsApp-Bot-MD Public release 🎓
 
 ❑ [Click To Fork Jessi Bot](https://github.com/whiteshadowofficial/STEFANIE-BOT-MD/fork)
 
-❑ [Watch video](https://youtu.be/iMzUrRjQfGE)
-
+❑ [Watch video](https://youtu.be/iMzUrRjQfG
 
 [Step 05]
 
-📚 ඊලගට ඔයා Qr code එක scan කරාට පස්සෙ ඔයාට ආපු Session.json file එක ඔයාගෙ repo එකට upload කරන්න.
-
-❑ [Watch video](https://youtu.be/iMzUrRjQfGE)
+📚 ඊලගට ඔයා Qr code එක scan කරාට පස්සෙ ඔයාට ආපු Session.json 
 
 
 [Step 06]
@@ -76,17 +73,4 @@ Stefanie-WhatsApp-Bot-MD Public release 🎓
 
 ❑ 04.මීලගට ඒ සම්පූර්ණ link එකම copy කරගන්න.
 
-❑ 05.දැන් ඒ link එක chrome එකෙ paste කරලා.Bot ව deploy කරන්න.
-
-
-
-
- Video link...👇
-
-https://youtu.be/WezRH3ahExc
-
-Support Group link...👇
-
-https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4
-
-( මේක ශෙයා කරන්න..)
+❑ 05.දැන් ඒ link එක chrome එකෙ paste කරලා.Bot ව deploy කර
